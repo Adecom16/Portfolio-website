@@ -26,13 +26,13 @@ To install **vCard**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/portfolio-website.git
+sudo git clone https://github.com/adecom16/portfolio-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/portfolio-website.git
+git clone https://github.com/adecom16/portfolio-website.git
 ```
 
 ## Contact
